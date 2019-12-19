@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3892993f-9583-48f6-8f5c-5b32b4072893" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Uy17Lnl9vmj8L5HbB2mdnGEIAt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leyou-manage-web" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HttpDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="http-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.httpdemo.HttpDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3892993f-9583-48f6-8f5c-5b32b4072893" name="Default Changelist" comment="" />
+      <created>1576313852739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576313852739</updated>
+      <workItem from="1576313858419" duration="3174000" />
+      <workItem from="1576329634863" duration="909000" />
+      <workItem from="1576335669146" duration="2106000" />
+      <workItem from="1576379677163" duration="2149000" />
+      <workItem from="1576387127153" duration="306000" />
+      <workItem from="1576387445487" duration="331000" />
+      <workItem from="1576387789480" duration="209000" />
+      <workItem from="1576388014094" duration="226000" />
+      <workItem from="1576388251937" duration="1230000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="967" y="197" key="#HTTP_Proxy" timestamp="1576387178130">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="967" y="197" key="#HTTP_Proxy/0.0.1920.1040@0.0.1920.1040" timestamp="1576387178130" />
+    <state x="967" y="198" key="#Notifications" timestamp="1576388027933">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="967" y="198" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1576388027933" />
+    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1576388282980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576388282980" />
+    <state x="369" y="171" key="SettingsEditor" timestamp="1576388279050">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="369" y="171" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576388279050" />
+    <state x="968" y="251" width="773" height="586" key="new project wizard" timestamp="1576335793196">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="968" y="251" width="773" height="586" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1576335793196" />
+  </component>
+</project>
