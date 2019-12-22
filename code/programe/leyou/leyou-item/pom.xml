@@ -17,5 +17,13 @@
         <module>leyou-item-service</module>
         <module>leyou-item-interface</module>
     </modules>
+    
+    <dependencies>
+        <dependency>
+            <groupId>com.leyou.common</groupId>
+            <artifactId>leyou-common</artifactId>
+            <version>1.0.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 </project>

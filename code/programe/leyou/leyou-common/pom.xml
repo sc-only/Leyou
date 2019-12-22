@@ -9,8 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.leyou.comment</groupId>
-    <artifactId>leyou-comment</artifactId>
+    <groupId>com.leyou.common</groupId>
+    <artifactId>leyou-common</artifactId>
 
 
 </project>

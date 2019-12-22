@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/leyou.iml" filepath="$PROJECT_DIR$/.idea/leyou.iml" />
-      <module fileurl="file://$PROJECT_DIR$/leyou-comment/leyou-comment.iml" filepath="$PROJECT_DIR$/leyou-comment/leyou-comment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leyou-common/leyou-common.iml" filepath="$PROJECT_DIR$/leyou-common/leyou-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/leyou-gateway/leyou-gateway.iml" filepath="$PROJECT_DIR$/leyou-gateway/leyou-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/leyou-item/leyou-item.iml" filepath="$PROJECT_DIR$/leyou-item/leyou-item.iml" />
       <module fileurl="file://$PROJECT_DIR$/leyou-item/leyou-item-interface/leyou-item-interface.iml" filepath="$PROJECT_DIR$/leyou-item/leyou-item-interface/leyou-item-interface.iml" />

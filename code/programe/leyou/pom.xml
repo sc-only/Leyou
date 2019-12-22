@@ -13,6 +13,7 @@
         <module>leyou-gateway</module>
         <module>leyou-item</module>
         <module>leyou-comment</module>
+        <module>leyou-common</module>
     </modules>
 
     <name>leyou</name>
@@ -71,13 +72,12 @@
                 <artifactId>mysql-connector-java</artifactId>
                 <version>${mysql.version}</version>
             </dependency>
-            <!--FastDFS客户端-->
+            <!-- https://mvnrepository.com/artifact/com.github.tobato/fastdfs-client -->
             <dependency>
                 <groupId>com.github.tobato</groupId>
                 <artifactId>fastdfs-client</artifactId>
-                <version>1.26.7</version>
+                <version>1.26.3</version>
             </dependency>
-
         </dependencies>
     </dependencyManagement>
     <build>
