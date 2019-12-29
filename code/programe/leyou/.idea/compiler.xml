@@ -10,6 +10,7 @@
         <module name="leyou-gateway" />
         <module name="leyou-register" />
         <module name="leyou-common" />
+        <module name="leyou-upload" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,6 +21,7 @@
       <module name="leyou-item-interface" target="1.8" />
       <module name="leyou-item-service" target="1.8" />
       <module name="leyou-register" target="1.8" />
+      <module name="leyou-upload" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -28,6 +30,7 @@
       <module name="leyou-gateway" options="-parameters" />
       <module name="leyou-item-service" options="-parameters" />
       <module name="leyou-register" options="-parameters" />
+      <module name="leyou-upload" options="-parameters" />
     </option>
   </component>
 </project>
